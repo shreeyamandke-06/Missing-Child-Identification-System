@@ -93,6 +93,8 @@ CREATE DATABASE dbms_proj;
 
 ---
 
-## Author
-
+## Authors
+Gargi Kajave
+Riya Lele
+Avani Limaye
 Shreeya Mandke
